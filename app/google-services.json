@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504375563303",
+    "project_id": "attandanceapp-5f2fb",
+    "storage_bucket": "attandanceapp-5f2fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504375563303:android:fc062ce285bfd103f5aa02",
+        "android_client_info": {
+          "package_name": "com.example.attandanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504375563303-8aa9e30s4fh97ghah5kuc7oc9dslpsdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq7GT_S3j7x6wft5usXAjUWgr9kdh6XKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504375563303-8aa9e30s4fh97ghah5kuc7oc9dslpsdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

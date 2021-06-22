@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AttandanceApp</string>
+    <string name="title_location_permission">Allow this App to access device location</string>
+    <string name="text_location_permission">Allow</string>
+    <string name="ok">ok</string>
+</resources>
